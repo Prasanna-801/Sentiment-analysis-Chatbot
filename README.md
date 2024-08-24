@@ -41,8 +41,11 @@ source rasa_env/bin/activate
 # Run the scripts in order
 
 python preprocessing_and_feature_extraction.py
+
 python train_classifiers.py
+
 python train_naive.py
+
 python sentiment_analysis.py
 
 
