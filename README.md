@@ -51,11 +51,19 @@ python sentiment_analysis.py
 
 Output --
 Hello! How are you feeling today?
+
 You: I am so happy!
+
 Chatbot: Your sentiment is Positive.
+
 You: This is terrible.
+
 Chatbot: Your sentiment is Negative.
+
 You: I feel okay.
+
 Chatbot: Your sentiment is Neutral.
+
 You: exit
+
 Chatbot: Goodbye! Have a great day!
