@@ -30,7 +30,7 @@ nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
-To run ---
+# To run ---
 # Activate the virtual environment
 # For Windows
 .\rasa_env\Scripts\activate
@@ -49,7 +49,7 @@ python train_naive.py
 python sentiment_analysis.py
 
 
-Output --
+# Output --
 
 
 Hello! How are you feeling today?
